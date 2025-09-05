@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "my_gantt"
+  site-url: "https://nmaghel-arch.github.io/my_gantt"
+  description: "A python package for creating GANTT charts"
+  repo-branch: main
+  repo-url: "https://github.com/nmaghel-arch/my_gantt"
